@@ -1,2 +1,2 @@
-# sozlukv1
-demo
+# SozlukCokluSayfa
+HTML5 JQuerymobile çoklu sayfa sözlük 
